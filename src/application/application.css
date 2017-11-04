@@ -1,0 +1,27 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.date-picker-popup .calendar-grid {
+    -fx-pref-width: 220.0;
+    -fx-pref-height: 180.0;
+}
+.date-picker-popup .spinner-label {
+    -fx-font-size: 18.0;
+}
+.jfx-date-picker .jfx-text-field{
+    -jfx-unfocus-color: #909090;
+}
+
+.combo-box .cell {
+     -fx-text-fill: white;
+     
+}
+
+.jfx-combo-box{
+	-jfx-unfocus-color: red;
+	-jfx-focus-color: blue;
+}
+
+.combo-box-button-container{
+	-fx-border-style: hidden hidden solid hidden;
+    -fx-border-color: #909090;	
+	-fx-border-width: 2;
+}
